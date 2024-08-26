@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BMGVR9vJ.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"三剑客/html/index.md","filePath":"三剑客/html/index.md"}'),n={name:"三剑客/html/index.md"};function r(o,s,c,d,i,m){return a(),t("div")}const l=e(n,[["render",r]]);export{_ as __pageData,l as default};
